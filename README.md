@@ -94,28 +94,28 @@ current_focus: AI
       <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white" alt="Postman" />
       <img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=Selenium&logoColor=white" alt="Selenium" />
       <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white" alt="Ubuntu" />
-      <img src="https://img.shields.io/badge/-HuggingFace-FDEE21?style=for-the-badge&logo=HuggingFace&logoColor=black" alt="Huggingface" />
-      <img src="https://img.shields.io/badge/langchain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="Langchain" />
-      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
-      <img src="https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=Apache&logoColor=white" alt="Apache" />
-      <img src="https://img.shields.io/badge/redis-CC0000.svg?&style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
-      <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" alt="Slack" />
-      <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="Android studio" />
-      <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" alt="Eclipse" />
-      <img src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=for-the-badge&logo=sublime-text&logoColor=important" alt="Sublime text" />
-      <img src="https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white" alt="vim" />
-      <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C language" />
-      <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
-      <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-      <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart" />
-      <img src="https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white" alt="numpy" />
-      <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-      <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-      <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit learn" />
-      <img src="https://img.shields.io/badge/Scratch-4D97FF?style=for-the-badge&logo=Scratch&logoColor=white" alt="Scratch" />
-      <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white" alt="Streamlit" />
-      <img src="https://img.shields.io/badge/Docker%20Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker compose" />
-      <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=LangGraph&logoColor=white" alt="Docker compose" />
+      <img src="https://img.shields.io/badge/-HuggingFace-FDEE21?style=flat-square&logo=HuggingFace&logoColor=black" alt="Huggingface" />
+      <img src="https://img.shields.io/badge/langchain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="Langchain" />
+      <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
+      <img src="https://img.shields.io/badge/Apache-D22128?style=flat-square&logo=Apache&logoColor=white" alt="Apache" />
+      <img src="https://img.shields.io/badge/redis-CC0000.svg?&style=flat-square&logo=redis&logoColor=white" alt="Redis" />
+      <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white" alt="Slack" />
+      <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=white" alt="Android studio" />
+      <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=white" alt="Eclipse" />
+      <img src="https://img.shields.io/badge/sublime_text-%23575757.svg?&style=flat-square&logo=sublime-text&logoColor=important" alt="Sublime text" />
+      <img src="https://img.shields.io/badge/VIM-%2311AB00.svg?&style=flat-square&logo=vim&logoColor=white" alt="vim" />
+      <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" alt="C language" />
+      <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" alt="C#" />
+      <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++" />
+      <img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white" alt="Dart" />
+      <img src="https://img.shields.io/badge/Numpy-777BB4?style=flat-square&logo=numpy&logoColor=white" alt="numpy" />
+      <img src="https://img.shields.io/badge/Pandas-2C2D72?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
+      <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
+      <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="Scikit learn" />
+      <img src="https://img.shields.io/badge/Scratch-4D97FF?style=flat-square&logo=Scratch&logoColor=white" alt="Scratch" />
+      <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=Streamlit&logoColor=white" alt="Streamlit" />
+      <img src="https://img.shields.io/badge/Docker%20Compose-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker compose" />
+      <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=LangGraph&logoColor=white" alt="Docker compose" />
     </div>
   </details>
 
@@ -126,57 +126,54 @@ current_focus: AI
         <tr>
           <th>시작일</th>
           <th>프로젝트명</th>
-          <th>역할</th>
           <th>기술스택</th>
           <th>비고</th>
         </tr>
       </thead>
       <tbody>
-        <tr><td>2014.04</td><td>Hanwha DreamPlus Asia</td><td>Backend</td><td>Java, JSP, Oracle</td><td>Framework 없는 순수 JSP</td></tr>
-        <tr><td>2014.08</td><td>YG Galaxytour</td><td>Backend</td><td>Java, JSP, Oracle</td><td>미국, 미얀마 등 다국어 지원, AWS 인프라 구조 설계/구축</td></tr>
-        <tr><td>2015.06</td><td>광주 유니버시아드 You Light Me Up</td><td>Backend</td><td>Java, JSP, Oracle</td><td>Backend 지원 및 Android 영상 촬영/인코딩/업로드 기능 구현</td></tr>
-        <tr><td>2016.06</td><td>한화 세계불꽃축제</td><td>Backend</td><td>Spring, JSP, Oracle</td><td></td></tr>
-        <tr><td>2017.07</td><td>CJ FreshWay 홈페이지 리뉴얼</td><td>Backend</td><td>Spring, JSP, Oracle</td><td></td></tr>
-        <tr><td>2017.07</td><td>한화 세계불꽃축제</td><td>Backend</td><td>Spring, JSP, Oracle</td><td></td></tr>
-        <tr><td>2017.10</td><td>한화 The Plaza hotel</td><td>Backend</td><td>Spring, JSP, Oracle</td><td></td></tr>
-        <tr><td>2018.07</td><td>한화 세계불꽃축제</td><td>Backend</td><td>Spring, JSP, Oracle</td><td></td></tr>
-        <tr><td>2018.07</td><td>Its-New 홈페이지 리뉴얼</td><td>Backend</td><td>ASP.NET, MSSQL</td><td></td></tr>
-        <tr><td>2019.01</td><td>Bighit Armypedia</td><td>Backend</td><td>Java, JSP, MySQL</td><td>AWS 인프라 구조 설계/구축</td></tr>
-        <tr><td>2019.05</td><td>두산 Corp 홈페이지 리뉴얼</td><td>Backend</td><td>Spring Boot, Thymeleaf, MySQL</td><td></td></tr>
-        <tr><td>2019.07</td><td>한화 세계불꽃축제</td><td>Backend</td><td>Spring, JSP, Oracle</td><td></td></tr>
-        <tr><td>2019.09</td><td>두산 Infracore 홈페이지 리뉴얼</td><td>Backend</td><td>Spring Boot, Thymeleaf, MySQL</td><td></td></tr>
-        <tr><td>2019.10</td><td>NC소프트 홈페이지 리뉴얼</td><td>Backend</td><td>Spring, JSP, MySQL</td><td>AWS 인프라 구조 설계</td></tr>
-        <tr><td>2020.01</td><td>KGC인삼공사 홈페이지 리뉴얼</td><td>Backend</td><td>Spring, JSP, MySQL</td><td>AWS 인프라 구조 설계/구축</td></tr>
-        <tr><td>2020.06</td><td>SK매직 홈페이지 리뉴얼</td><td>Backend</td><td>Spring, JSP, MySQL</td><td></td></tr>
-        <tr><td>2020.10</td><td>KGC 정관장 브랜드플랫폼</td><td>Backend</td><td>Spring, JSP, MySQL</td><td>AWS 인프라 구조 설계/구축</td></tr>
-        <tr><td>2021.06</td><td>스마일게이트 홈페이지 리뉴얼</td><td>Backend</td><td>Spring Boot, JSP, MySQL</td><td></td></tr>
-        <tr><td>2021.11</td><td>현대 로보틱스랩</td><td>Backend</td><td>Spring Boot, JSP, Tibero6</td><td>AWS 인프라 구조 설계/구축</td></tr>
-        <tr><td>2022.01</td><td>삼성물산 홈페이지 리뉴얼</td><td>Backend</td><td>Spring Boot, JSP, Tibero6</td><td></td></tr>
-        <tr><td>2022.05</td><td>카카오 Corp 라이언룸</td><td>Backend</td><td>Server Infra Managing</td><td>AWS 인프라 구조 설계/구축</td></tr>
-        <tr><td>2022.08</td><td>삼성자산운용 홈페이지 리뉴얼</td><td>Backend</td><td>Spring Boot, JSP, Oracle</td><td></td></tr>
-        <tr><td>2022.09</td><td>카스월드컵 (Cass Worldcup)</td><td>Backend</td><td>Server Infra Managing, JSP</td><td>AWS 인프라 구조 설계/구축</td></tr>
-        <tr><td>2023.02</td><td>현대 Kona SX2 스튜디오</td><td>Backend</td><td>Server Infra Managing</td><td>AWS 인프라 구조 설계/구축</td></tr>
-        <tr><td>2023.05</td><td>카스쿨 (Casscool)</td><td>Backend</td><td>Server Infra Managing, JSP</td><td>AWS 인프라 구조 설계/구축</td></tr>
-        <tr><td>2023.07</td><td>삼성액티브자산운용 홈페이지 리뉴얼</td><td>Backend</td><td>Spring Boot, JSP, Oracle</td><td></td></tr>
-        <tr><td>2023.10</td><td>한화그룹 홈페이지 리뉴얼</td><td>Backend</td><td>Spring Boot, JSP, Oracle, Tibero</td><td></td></tr>
-        <tr><td>2024.03</td><td>한화닷컴 글로벌 사이트 리뉴얼</td><td>Backend</td><td>Spring Boot, JSP, Oracle, Tibero</td><td>AEM 기반 사이트를 Spring boot 기반으로 이관</td></tr>
-        <tr><td>2025.08</td><td><a href="https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN14-FINAL-4Team">LLM 활용 친환경 제품 추천 웹사이트</a></td><td>Backend, AI엔지니어</td><td>Django, FastAPI, MySQL, Pinecone</td><td>AWS 인프라 구조 및 DevOps 설계/구축</td></tr>
+        <tr><td>2014.04</td><td>Hanwha DreamPlus Asia</td><td>Java, JSP, Oracle</td><td>Framework 없는 순수 JSP</td></tr>
+        <tr><td>2014.08</td><td>YG Galaxytour</td><td>Java, JSP, Oracle</td><td>미국, 미얀마 등 다국어 지원, AWS 인프라 구조 설계/구축</td></tr>
+        <tr><td>2015.06</td><td>광주 유니버시아드(You Light Me Up)</td><td>Java, JSP, Oracle</td><td>Backend 지원 및 Android 영상 촬영/인코딩/업로드 기능 구현</td></tr>
+        <tr><td>2016.06</td><td>한화 세계불꽃축제</td><td>Spring, JSP, Oracle</td><td></td></tr>
+        <tr><td>2017.07</td><td>CJ FreshWay 홈페이지 리뉴얼</td><td>Spring, JSP, Oracle</td><td></td></tr>
+        <tr><td>2017.07</td><td>한화 세계불꽃축제</td><td>Spring, JSP, Oracle</td><td></td></tr>
+        <tr><td>2017.10</td><td>한화 The Plaza hotel</td><td>Spring, JSP, Oracle</td><td></td></tr>
+        <tr><td>2018.07</td><td>한화 세계불꽃축제</td><td>Spring, JSP, Oracle</td><td></td></tr>
+        <tr><td>2018.07</td><td>Its-New 홈페이지 리뉴얼</td><td>ASP.NET, MSSQL</td><td></td></tr>
+        <tr><td>2019.01</td><td>Bighit Armypedia</td><td>Java, JSP, MySQL</td><td>AWS 인프라 구조 설계/구축</td></tr>
+        <tr><td>2019.05</td><td>두산 Corp 홈페이지 리뉴얼</td><td>Spring Boot, Thymeleaf, MySQL</td><td></td></tr>
+        <tr><td>2019.07</td><td>한화 세계불꽃축제</td><td>Spring, JSP, Oracle</td><td></td></tr>
+        <tr><td>2019.09</td><td>두산 Infracore 홈페이지 리뉴얼</td><td>Spring Boot, Thymeleaf, MySQL</td><td></td></tr>
+        <tr><td>2019.10</td><td>NC소프트 홈페이지 리뉴얼</td><td>Spring, JSP, MySQL</td><td>AWS 인프라 구조 설계</td></tr>
+        <tr><td>2020.01</td><td>KGC인삼공사 홈페이지 리뉴얼</td><td>Spring, JSP, MySQL</td><td>AWS 인프라 구조 설계/구축</td></tr>
+        <tr><td>2020.06</td><td>SK매직 홈페이지 리뉴얼</td><td>Spring, JSP, MySQL</td><td></td></tr>
+        <tr><td>2020.10</td><td>KGC 정관장브랜드플랫폼</td><td>Spring, JSP, MySQL</td><td>AWS 인프라 구조 설계/구축</td></tr>
+        <tr><td>2021.06</td><td>Smilegate 홈페이지 리뉴얼</td><td>Spring Boot, JSP, MySQL</td><td></td></tr>
+        <tr><td>2021.11</td><td>현대 로보틱스랩</td><td>Spring Boot, JSP, Tibero6</td><td>AWS 인프라 구조 설계/구축</td></tr>
+        <tr><td>2022.01</td><td>삼성물산 홈페이지 리뉴얼</td><td>Spring Boot, JSP, Tibero6</td><td></td></tr>
+        <tr><td>2022.05</td><td>카카오 춘식이 다이어리</td><td>Server Infra Managing</td><td>AWS 인프라 구조 설계/구축</td></tr>
+        <tr><td>2022.08</td><td>삼성자산운용 홈페이지 리뉴얼</td><td>Spring Boot, JSP, Oracle</td><td></td></tr>
+        <tr><td>2022.09</td><td>카스월드컵 (Cass Worldcup)</td><td>Server Infra Managing, JSP</td><td>AWS 인프라 구조 설계/구축</td></tr>
+        <tr><td>2023.02</td><td>현대 Kona SX2 스튜디오</td><td>Server Infra Managing</td><td>AWS 인프라 구조 설계/구축</td></tr>
+        <tr><td>2023.05</td><td>카스쿨 (Casscool)</td><td>Server Infra Managing, JSP</td><td>AWS 인프라 구조 설계/구축</td></tr>
+        <tr><td>2023.07</td><td>삼성액티브자산운용 홈페이지 리뉴얼</td><td>Spring Boot, JSP, Oracle</td><td></td></tr>
+        <tr><td>2023.10</td><td>한화그룹 홈페이지 리뉴얼</td><td>Spring Boot, JSP, Oracle, Tibero</td><td></td></tr>
+        <tr><td>2024.03</td><td>한화닷컴 글로벌 사이트 리뉴얼</td><td>Spring Boot, JSP, Oracle, Tibero</td><td>AEM 기반 사이트를 Spring boot 기반으로 이관</td></tr>
+        <tr><td>2025.08</td><td><a href="https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN14-FINAL-4Team">LLM 활용 친환경 제품 추천 웹사이트</a></td><td>Django, FastAPI, MySQL, Pinecone</td><td>AWS 인프라 구조 및 DevOps 설계/구축</td></tr>
       </tbody>
     </table>
 </details>
 
-
-
 ## 📝 Certifications
-| Date           | Title               | Score   | Status                    |
-|:---------------|:--------------------|:--------|:--------------------------|
-| 2008.08.29     | AhnLab Internship   | 수료    | 총 기간 6개월             |
-| ~~2010.04.25~~ | ~~TOEIC~~           | ~~850~~ | ~~2012.04.25 만료~~       |
-| 2010.08.13     | 정보처리산업기사    | -       | -                         |
-| 2013.02.08     | 군 전역             | -       | 21개월 병장만기 제대      |
-| ~~2013.07.22~~ | ~~OPIc(English)~~   | ~~IH~~  | ~~2015.07.13 만료~~       |
-| 2015.10.23     | 정보처리기사        | -       | -                         |
-| 2025.10.02     | SK Networks AI Camp | 수료    | 총 기간 6개월. 우수수료생 |
+| Date           | Title                | Score   | Status                    |
+|:---------------|:---------------------|:-------:|:--------------------------|
+| 2008.08.29     | AhnLab Internship    | 수료    | 총 기간 6개월             |
+| ~~2010.04.25~~ | ~~TOEIC~~            | ~~850~~ | ~~2012.04.25 만료~~       |
+| ~~2010.08.13~~ | ~~정보처리산업기사~~ | -       | -                         |
+| 2013.02.08     | 군 전역              | -       | 21개월 병장만기 제대      |
+| ~~2013.07.22~~ | ~~OPIc(English)~~    | ~~IH~~  | ~~2015.07.13 만료~~       |
+| 2015.10.23     | 정보처리기사         | -       | -                         |
+| 2025.10.02     | SK Networks AI Camp  | 수료    | 총 기간 6개월. 우수수료생 |
 
 <br/><br/><br/>
 
