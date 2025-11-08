@@ -119,50 +119,48 @@ current_focus: AI
     </div>
   </details>
 
-## 🚀 Projects
-<details> <summary>참여 이력</summary>
-    <table>
-      <thead>
-        <tr>
-          <th>시작일</th>
-          <th>프로젝트명</th>
-          <th>기술스택</th>
-          <th>비고</th>
-        </tr>
-      </thead>
-      <tbody>
-        <tr><td>2014.04</td><td>Hanwha DreamPlus Asia</td><td>Java, JSP, Oracle</td><td>Framework 없는 순수 JSP</td></tr>
-        <tr><td>2014.08</td><td>YG Galaxytour</td><td>Java, JSP, Oracle</td><td>미국, 미얀마 등 다국어 지원, AWS 인프라 구조 설계/구축</td></tr>
-        <tr><td>2015.06</td><td>광주 유니버시아드(You Light Me Up)</td><td>Java, JSP, Oracle</td><td>Backend 지원 및 Android 영상 촬영/인코딩/업로드 기능 구현</td></tr>
-        <tr><td>2016.06</td><td>한화 세계불꽃축제</td><td>Spring, JSP, Oracle</td><td></td></tr>
-        <tr><td>2017.07</td><td>CJ FreshWay 홈페이지 리뉴얼</td><td>Spring, JSP, Oracle</td><td></td></tr>
-        <tr><td>2017.07</td><td>한화 세계불꽃축제</td><td>Spring, JSP, Oracle</td><td></td></tr>
-        <tr><td>2017.10</td><td>한화 The Plaza hotel</td><td>Spring, JSP, Oracle</td><td></td></tr>
-        <tr><td>2018.07</td><td>한화 세계불꽃축제</td><td>Spring, JSP, Oracle</td><td></td></tr>
-        <tr><td>2018.07</td><td>Its-New 홈페이지 리뉴얼</td><td>ASP.NET, MSSQL</td><td></td></tr>
-        <tr><td>2019.01</td><td>Bighit Armypedia</td><td>Java, JSP, MySQL</td><td>AWS 인프라 구조 설계/구축</td></tr>
-        <tr><td>2019.05</td><td>두산 Corp 홈페이지 리뉴얼</td><td>Spring Boot, Thymeleaf, MySQL</td><td></td></tr>
-        <tr><td>2019.07</td><td>한화 세계불꽃축제</td><td>Spring, JSP, Oracle</td><td></td></tr>
-        <tr><td>2019.09</td><td>두산 Infracore 홈페이지 리뉴얼</td><td>Spring Boot, Thymeleaf, MySQL</td><td></td></tr>
-        <tr><td>2019.10</td><td>NC소프트 홈페이지 리뉴얼</td><td>Spring, JSP, MySQL</td><td>AWS 인프라 구조 설계</td></tr>
-        <tr><td>2020.01</td><td>KGC인삼공사 홈페이지 리뉴얼</td><td>Spring, JSP, MySQL</td><td>AWS 인프라 구조 설계/구축</td></tr>
-        <tr><td>2020.06</td><td>SK매직 홈페이지 리뉴얼</td><td>Spring, JSP, MySQL</td><td></td></tr>
-        <tr><td>2020.10</td><td>KGC 정관장브랜드플랫폼</td><td>Spring, JSP, MySQL</td><td>AWS 인프라 구조 설계/구축</td></tr>
-        <tr><td>2021.06</td><td>Smilegate 홈페이지 리뉴얼</td><td>Spring Boot, JSP, MySQL</td><td></td></tr>
-        <tr><td>2021.11</td><td>현대 로보틱스랩</td><td>Spring Boot, JSP, Tibero6</td><td>AWS 인프라 구조 설계/구축</td></tr>
-        <tr><td>2022.01</td><td>삼성물산 홈페이지 리뉴얼</td><td>Spring Boot, JSP, Tibero6</td><td></td></tr>
-        <tr><td>2022.05</td><td>카카오 춘식이 다이어리</td><td>Server Infra Managing</td><td>AWS 인프라 구조 설계/구축</td></tr>
-        <tr><td>2022.08</td><td>삼성자산운용 홈페이지 리뉴얼</td><td>Spring Boot, JSP, Oracle</td><td></td></tr>
-        <tr><td>2022.09</td><td>카스월드컵 (Cass Worldcup)</td><td>Server Infra Managing, JSP</td><td>AWS 인프라 구조 설계/구축</td></tr>
-        <tr><td>2023.02</td><td>현대 Kona SX2 스튜디오</td><td>Server Infra Managing</td><td>AWS 인프라 구조 설계/구축</td></tr>
-        <tr><td>2023.05</td><td>카스쿨 (Casscool)</td><td>Server Infra Managing, JSP</td><td>AWS 인프라 구조 설계/구축</td></tr>
-        <tr><td>2023.07</td><td>삼성액티브자산운용 홈페이지 리뉴얼</td><td>Spring Boot, JSP, Oracle</td><td></td></tr>
-        <tr><td>2023.10</td><td>한화그룹 홈페이지 리뉴얼</td><td>Spring Boot, JSP, Oracle, Tibero</td><td></td></tr>
-        <tr><td>2024.03</td><td>한화닷컴 글로벌 사이트 리뉴얼</td><td>Spring Boot, JSP, Oracle, Tibero</td><td>AEM 기반 사이트를 Spring boot 기반으로 이관</td></tr>
-        <tr><td>2025.08</td><td><a href="https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN14-FINAL-4Team">LLM 활용 친환경 제품 추천 웹사이트</a></td><td>Django, FastAPI, MySQL, Pinecone</td><td>AWS 인프라 구조 및 DevOps 설계/구축</td></tr>
-      </tbody>
-    </table>
-</details>
+## 🚀 Projects 참여 이력
+<table>
+  <thead>
+    <tr>
+      <th>시작일</th>
+      <th>프로젝트명</th>
+      <th>기술스택</th>
+      <th>비고</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr><td>2014.04</td><td>Hanwha DreamPlus Asia</td><td>Java, JSP, Oracle</td><td>Framework 없는 순수 JSP</td></tr>
+    <tr><td>2014.08</td><td>YG Galaxytour</td><td>Java, JSP, Oracle</td><td>미국, 미얀마 등 다국어 지원, AWS 인프라 구조 설계/구축</td></tr>
+    <tr><td>2015.06</td><td>광주 유니버시아드(You Light Me Up)</td><td>Java, JSP, Oracle</td><td>Backend 지원 및 Android 영상 촬영/인코딩/업로드 기능 구현</td></tr>
+    <tr><td>2016.06</td><td>한화 세계불꽃축제</td><td>Spring, JSP, Oracle</td><td></td></tr>
+    <tr><td>2017.07</td><td>CJ FreshWay 홈페이지 리뉴얼</td><td>Spring, JSP, Oracle</td><td></td></tr>
+    <tr><td>2017.07</td><td>한화 세계불꽃축제</td><td>Spring, JSP, Oracle</td><td></td></tr>
+    <tr><td>2017.10</td><td>한화 The Plaza hotel</td><td>Spring, JSP, Oracle</td><td></td></tr>
+    <tr><td>2018.07</td><td>한화 세계불꽃축제</td><td>Spring, JSP, Oracle</td><td></td></tr>
+    <tr><td>2018.07</td><td>Its-New 홈페이지 리뉴얼</td><td>ASP.NET, MSSQL</td><td></td></tr>
+    <tr><td>2019.01</td><td>Bighit Armypedia</td><td>Java, JSP, MySQL</td><td>AWS 인프라 구조 설계/구축</td></tr>
+    <tr><td>2019.05</td><td>두산 Corp 홈페이지 리뉴얼</td><td>Spring Boot, Thymeleaf, MySQL</td><td></td></tr>
+    <tr><td>2019.07</td><td>한화 세계불꽃축제</td><td>Spring, JSP, Oracle</td><td></td></tr>
+    <tr><td>2019.09</td><td>두산 Infracore 홈페이지 리뉴얼</td><td>Spring Boot, Thymeleaf, MySQL</td><td></td></tr>
+    <tr><td>2019.10</td><td>NC소프트 홈페이지 리뉴얼</td><td>Spring, JSP, MySQL</td><td>AWS 인프라 구조 설계</td></tr>
+    <tr><td>2020.01</td><td>KGC인삼공사 홈페이지 리뉴얼</td><td>Spring, JSP, MySQL</td><td>AWS 인프라 구조 설계/구축</td></tr>
+    <tr><td>2020.06</td><td>SK매직 홈페이지 리뉴얼</td><td>Spring, JSP, MySQL</td><td></td></tr>
+    <tr><td>2020.10</td><td>KGC 정관장브랜드플랫폼</td><td>Spring, JSP, MySQL</td><td>AWS 인프라 구조 설계/구축</td></tr>
+    <tr><td>2021.06</td><td>Smilegate 홈페이지 리뉴얼</td><td>Spring Boot, JSP, MySQL</td><td></td></tr>
+    <tr><td>2021.11</td><td>현대 로보틱스랩</td><td>Spring Boot, JSP, Tibero6</td><td>AWS 인프라 구조 설계/구축</td></tr>
+    <tr><td>2022.01</td><td>삼성물산 홈페이지 리뉴얼</td><td>Spring Boot, JSP, Tibero6</td><td></td></tr>
+    <tr><td>2022.05</td><td>카카오 춘식이 다이어리</td><td>Server Infra Managing</td><td>AWS 인프라 구조 설계/구축</td></tr>
+    <tr><td>2022.08</td><td>삼성자산운용 홈페이지 리뉴얼</td><td>Spring Boot, JSP, Oracle</td><td></td></tr>
+    <tr><td>2022.09</td><td>카스월드컵 (Cass Worldcup)</td><td>Server Infra Managing, JSP</td><td>AWS 인프라 구조 설계/구축</td></tr>
+    <tr><td>2023.02</td><td>현대 Kona SX2 스튜디오</td><td>Server Infra Managing</td><td>AWS 인프라 구조 설계/구축</td></tr>
+    <tr><td>2023.05</td><td>카스쿨 (Casscool)</td><td>Server Infra Managing, JSP</td><td>AWS 인프라 구조 설계/구축</td></tr>
+    <tr><td>2023.07</td><td>삼성액티브자산운용 홈페이지 리뉴얼</td><td>Spring Boot, JSP, Oracle</td><td></td></tr>
+    <tr><td>2023.10</td><td>한화그룹 홈페이지 리뉴얼</td><td>Spring Boot, JSP, Oracle, Tibero</td><td></td></tr>
+    <tr><td>2024.03</td><td>한화닷컴 글로벌 사이트 리뉴얼</td><td>Spring Boot, JSP, Oracle, Tibero</td><td>AEM 기반 사이트를 Spring boot 기반으로 이관</td></tr>
+    <tr><td>2025.08</td><td><a href="https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN14-FINAL-4Team">LLM 활용 친환경 제품 추천 웹사이트</a></td><td>Django, FastAPI, MySQL, Pinecone</td><td>AWS 인프라 구조 및 DevOps 설계/구축</td></tr>
+  </tbody>
+</table>
 
 ## 📝 Certifications
 | Date           | Title                | Score   | Status                    |
