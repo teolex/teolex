@@ -20,21 +20,36 @@ current_focus: AI
   <tr>
     <!-- GitHub Readme Stats Card -->
     <td><img src="https://github-readme-stats.vercel.app/api?username=teolex&show_icons=true&theme=dark&hide_border=true&bg_color=000000,202020,303030&title_color=purple&icon_color=blue" alt="Your GitHub Stats" /></td>
-    <!-- Github Commit streak Card -->
-    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=teolex&theme=dark&hide_border=true&background=000000,202020&fire=purple" alt="GitHub Streak" /></td>
-  </tr>
-</table>
-<table align="center" width="100%" border="0" style="padding:0;border:0;">
-  <tr>
     <!-- Github Commit summary Card -->
     <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=teolex&theme=dark&hide_border=true&background=000000,202020"/></td>
-    <td>
-      <a href="https://stackoverflow.com/users/3454404/al-t-os">
-        <img src="https://stackoverflow.com/users/flair/3454404.png" width="208" height="58" alt="profile for Al.T.Os at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Al.T.Os at Stack Overflow, Q&amp;A for professional and enthusiast programmers">
-      </a>
-    </td>
   </tr>
 </table>
+
+[//]: # (<table align="center" width="100%" border="0" style="padding:0;border:0;">)
+
+[//]: # (  <tr>)
+
+[//]: # (    <!-- Github Commit streak Card -->)
+
+[//]: # (    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=teolex&theme=dark&hide_border=true&background=000000,202020&fire=purple" alt="GitHub Streak" /></td>)
+
+[//]: # (    <!-- Github Commit summary Card -->)
+
+[//]: # (    <td><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=teolex&theme=dark&hide_border=true&background=000000,202020"/></td>)
+
+[//]: # (    <td>)
+
+[//]: # (      <a href="https://stackoverflow.com/users/3454404/al-t-os">)
+
+[//]: # (        <img src="https://stackoverflow.com/users/flair/3454404.png" width="208" height="58" alt="profile for Al.T.Os at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Al.T.Os at Stack Overflow, Q&amp;A for professional and enthusiast programmers">)
+
+[//]: # (      </a>)
+
+[//]: # (    </td>)
+
+[//]: # (  </tr>)
+
+[//]: # (</table>)
 
 ## 📝 Certifications
 | Date           | Title                | Score   | Status                     |
