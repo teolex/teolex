@@ -36,6 +36,32 @@ current_focus: AI
   </tr>
 </table>
 
+## 📝 Certifications
+| Date           | Title                | Score   | Status                     |
+|:---------------|:---------------------|:-------:|:---------------------------|
+| ~~2010.04.25~~ | ~~TOEIC~~            | ~~850~~ | ~~2012.04.25 만료~~        |
+| ~~2010.08.13~~ | ~~정보처리산업기사~~ | -       | 정보처리기사 획득으로 무효 |
+| ~~2013.07.22~~ | ~~OPIc(English)~~    | ~~IH~~  | ~~2015.07.13 만료~~        |
+| 2015.10.23     | 정보처리기사         | -       | -                          |
+
+## 👑 Activities
+| Date           | Title                | Score   | Status                    |
+|:---------------|:---------------------|:-------:|:--------------------------|
+| 2008.08.29     | AhnLab Internship    | 수료    | 총 기간 6개월             |
+| 2013.02.08     | 군 전역              | -       | 21개월 병장만기 제대      |
+
+## ✍️ Education
+| Date           | Title                | Score   | Status                    |
+|:---------------|:---------------------|:-------:|:--------------------------|
+| 2025.10.02     | SK Networks AI Camp  | 수료    | 총 기간 6개월. 우수수료생 |
+
+## 🛫 Oversee Experience
+| Date       | Title           | Period | Status                                                                                      |
+|:-----------|:----------------|:------:|:--------------------------------------------------------------------------------------------|
+| 2012.03.02 | 아이티 해외파병 | 6개월  | 아이티의 지진후 복구를 위한 파병부대인 단비부대 5진에 네트워크/통신병으로 참여.             |
+| 2017.03.02 | 스위스 출장     | 3주    | 제네바모터쇼에서 현대 ICONIC 홍보용 VR 체험 진행요원 업무 수행.                             |
+| 2024.11.02 | 두바이 출장     | 2일    | LLM 을 활용한 Telegram bot 홍보를 위해 TON Gateway 에 참여하여 부스 개설 및 홍보 활동 진행. |
+
 ## 🛠️ Tech Stack & Tools
 - Web Application ( Frontend / Backend / Database )  
   ![](https://img.shields.io/badge/html5-E34F26?style=for-the-badge&amp;logo=html5&amp;logoColor=white)
@@ -158,20 +184,11 @@ current_focus: AI
     <tr><td>2023.07</td><td>삼성액티브자산운용 홈페이지 리뉴얼</td><td>Spring Boot, JSP, Oracle</td><td></td></tr>
     <tr><td>2023.10</td><td>한화그룹 홈페이지 리뉴얼</td><td>Spring Boot, JSP, Oracle, Tibero</td><td></td></tr>
     <tr><td>2024.03</td><td>한화닷컴 글로벌 사이트 리뉴얼</td><td>Spring Boot, JSP, Oracle, Tibero</td><td>AEM 기반 사이트를 Spring boot 기반으로 이관</td></tr>
-    <tr><td>2025.08</td><td><a href="https://github.com/SKNETWORKS-FAMILY-AICAMP/SKN14-FINAL-4Team">LLM 활용 친환경 제품 추천 웹사이트</a></td><td>Django, FastAPI, MySQL, Pinecone</td><td>AWS 인프라 구조 및 DevOps 설계/구축</td></tr>
+    <tr><td>2025.08</td><td><a href="https://github.com/teolex/teolex/blob/main/AI_portfolio.md">LLM 활용 친환경 제품 추천 웹사이트</a></td><td>Django, FastAPI, MySQL, Pinecone</td><td>AWS 인프라 구조 및 DevOps 설계/구축</td></tr>
   </tbody>
 </table>
 
-## 📝 Certifications
-| Date           | Title                | Score   | Status                    |
-|:---------------|:---------------------|:-------:|:--------------------------|
-| 2008.08.29     | AhnLab Internship    | 수료    | 총 기간 6개월             |
-| ~~2010.04.25~~ | ~~TOEIC~~            | ~~850~~ | ~~2012.04.25 만료~~       |
-| ~~2010.08.13~~ | ~~정보처리산업기사~~ | -       | -                         |
-| 2013.02.08     | 군 전역              | -       | 21개월 병장만기 제대      |
-| ~~2013.07.22~~ | ~~OPIc(English)~~    | ~~IH~~  | ~~2015.07.13 만료~~       |
-| 2015.10.23     | 정보처리기사         | -       | -                         |
-| 2025.10.02     | SK Networks AI Camp  | 수료    | 총 기간 6개월. 우수수료생 |
+
 
 <br/><br/><br/>
 
